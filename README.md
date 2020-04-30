@@ -11,6 +11,9 @@ to their default values, except for AutoFocus,
 which is set FALSE, and the FOCUS_ABSOLUTE which will
 be set to 0.
 
+videosetup.sh provides the user a small menu of buttons to launch preferred applications, and ca n call c920setup.sh.
+c920setup.sh is the script that configures the Logitech C920 webcam.
+
 The following programs must be installed for this GUI to work:
    awk
    YAD
